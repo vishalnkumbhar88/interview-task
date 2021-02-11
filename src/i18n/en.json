@@ -1,0 +1,20 @@
+{
+	"success": "success",
+	"DataNotFound": "DataNotFound.",
+	"loginSuccess": "loginSuccess.",
+	"emailAlreadyRegisteredWithUs": "Email already registered with us.",
+	"userRegisteredSuccessFully": "User has been registered successfully.",
+	"QuestionAddedSuccessfully": "Question Added Successfully.",
+	"UserDeletedSucessFully": "User has been  deleted sucessfully.",
+	"emailPasswordNotMatch": "Email or password not match.",
+	"loginEmailEmail": "Please Enter Valid email.",
+	"userFirstNameRequired": "Please enter your first name.",
+	"userLastNameRequired": "please enter your last name",
+	"userEmailRequired": "Please enter your email",
+	"userPasswordRequired": "Please enter your password.",
+	"userEmailEmail": "Please Enter valid email.",
+	"AddEditValidationUserIdRequired": "Please enter user id.",
+	"loginEmailRequired": "Please Enter your Email.",
+	"loginPasswordRequired": "Please enter your password.",
+	"invalidToken": "invalidToken"
+}
